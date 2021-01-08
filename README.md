@@ -1,4 +1,5 @@
-# Power-BI-e-Power-Query
+# Links_utéis_sobre_Power_BI_e_Power_Query
 
-POWER_QUERY
-https://www.youtube.com/watch?v=7OrdEVwyAh0
+POWER QUERY
+•	Otimize o modelo utilizando agregações e modelos compostos
+https://powerbiexperience.com/pt/nao-use-directquery-otimize-o-modelo-use-agregacoes-e-modelos-compostos/
